@@ -1,0 +1,4 @@
+This is a multiplayer html5 shooter using node.js and socket.io
+
+This project is based off the playfuljs demo found here.
+https://github.com/nicmendoza/playfuljs-demos
